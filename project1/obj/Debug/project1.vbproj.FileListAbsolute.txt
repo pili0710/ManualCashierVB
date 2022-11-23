@@ -1,0 +1,13 @@
+D:\TUGAS\S3\tugas VB\projek1\project1\bin\Debug\project1.exe.config
+D:\TUGAS\S3\tugas VB\projek1\project1\bin\Debug\project1.exe
+D:\TUGAS\S3\tugas VB\projek1\project1\bin\Debug\project1.pdb
+D:\TUGAS\S3\tugas VB\projek1\project1\bin\Debug\project1.xml
+D:\TUGAS\S3\tugas VB\projek1\project1\obj\Debug\project1.Form1.resources
+D:\TUGAS\S3\tugas VB\projek1\project1\obj\Debug\project1.Resources.resources
+D:\TUGAS\S3\tugas VB\projek1\project1\obj\Debug\project1.vbproj.GenerateResource.cache
+D:\TUGAS\S3\tugas VB\projek1\project1\obj\Debug\project1.vbproj.CoreCompileInputs.cache
+D:\TUGAS\S3\tugas VB\projek1\project1\obj\Debug\project1.exe
+D:\TUGAS\S3\tugas VB\projek1\project1\obj\Debug\project1.xml
+D:\TUGAS\S3\tugas VB\projek1\project1\obj\Debug\project1.pdb
+D:\TUGAS\S3\tugas VB\projek1\project1\obj\Debug\project1.vbprojAssemblyReference.cache
+D:\TUGAS\S3\tugas VB\projek1\project1\obj\Debug\project1.Form2.resources
